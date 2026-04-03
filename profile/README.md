@@ -10,11 +10,11 @@ This organization hosts **tools, scripts, methodologies, playbooks, and research
 
 The purpose of this organization is to:
 
-*   ✅ Centralize **Threat Hunting knowledge and tooling**
-*   ✅ Encourage **hands-on experimentation and learning**
-*   ✅ Share **custom-built and community-adapted hunting resources**
-*   ✅ Promote **methodology-driven threat hunting**
-*   ✅ Foster **collaboration among hunters and blue teamers**
+* Centralize **Threat Hunting knowledge and tooling**
+* Encourage **hands-on experimentation and learning**
+* Share **custom-built and community-adapted hunting resources**
+* Promote **methodology-driven threat hunting**
+* Foster **collaboration among hunters and blue teamers**
 
 Rather than a single monolithic repository, this organization acts as a **hub**, grouping multiple focused repositories under a common Threat Hunting vision.
 
