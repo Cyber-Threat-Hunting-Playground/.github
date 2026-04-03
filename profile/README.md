@@ -1,4 +1,4 @@
-# 🛡️ Cyber Threat Hunting Playground
+# 🛡️ Cyber Threat Hunting Playground 🕵️‍♀️
 
 **Cyber Threat Hunting Playground** is a GitHub **organization** dedicated to **centralizing and sharing Cyber Threat Hunting resources** across multiple repositories.
 
